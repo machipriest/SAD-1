@@ -12,4 +12,4 @@ https://gitmind.com/app/docs/m3bqv088
 <br>
 <br>
 個人作業2<br>
-[HW2說明影片](https://youtu.be/qwaETYtcy4w)
+[HW2說明影片](https://youtu.be/qwaETYtcy4w)<br>
